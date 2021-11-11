@@ -14,3 +14,9 @@ body{
     text-align: left;
 }
 
+.cabecera{
+    border: 1px solid salmon;
+    background-color: salmon;
+    padding: 0%;
+    margin: 0%;
+}
