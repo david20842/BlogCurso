@@ -20,3 +20,11 @@ body{
     padding: 0%;
     margin: 0%;
 }
+
+.footer{
+    border: 1px solid salmon;
+    padding: 2em;
+    margin-top: 20em;
+    background-color: salmon;
+    text-align: center;
+}
